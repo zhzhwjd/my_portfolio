@@ -113,14 +113,14 @@ function About() {
                                             <td className="border p-2 border-black">2020년 6월</td>
                                         </tr>
                                         <tr className="text-lg text-center">
-                                            <td className="border p-2 border-black">SQL개발자(SQLD)</td>
-                                            <td className="border p-2 border-black">한국데이터베이스진흥센터</td>
-                                            <td className="border p-2 border-black">2023년 4월</td>
-                                        </tr>
-                                        <tr className="text-lg text-center">
-                                            <td className="border p-2 border-black">파이썬마스터 2급</td>
+                                           <td className="border p-2 border-black">파이썬마스터 2급</td>
                                             <td className="border p-2 border-black">한국정보통신진흥협회</td>
                                             <td className="border p-2 border-black">2020년 10월</td>
+                                        </tr>
+                                        <tr className="text-lg text-center">                                            
+                                             <td className="border p-2 border-black">SQL개발자(SQLD)</td>
+                                            <td className="border p-2 border-black">한국데이터베이스진흥센터</td>
+                                            <td className="border p-2 border-black">2023년 4월</td>
                                         </tr>
                                     </tbody>
                                 </table>
