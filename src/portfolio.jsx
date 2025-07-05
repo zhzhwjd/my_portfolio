@@ -33,7 +33,7 @@ function PortfolioAndSkill() {
         <>
             <section id="portfolio">
                 <div className="p-16">
-                    <h1 className="mx-auto text-5xl font-bold mb-10">Porfolio</h1>
+                    <h1 className="mx-auto text-5xl font-bold mb-10">Portfolio</h1>
 
                     <div className="flex flex-row mb-10">
                         <div className="flex items-center justify-center mr-16">
@@ -100,7 +100,7 @@ function PortfolioAndSkill() {
 
                         </div>
                         <div className="h-auto rounded-xl bg-orange-500 border-2 border-black">
-                            <h1 className="p-4 text-2xl font-bold text-yellow-100">Fronted</h1>
+                            <h1 className="p-4 text-2xl font-bold text-yellow-100">Front-End</h1>
                             <div className="flex flex-col gap-4 pl-4 pr-4 pb-4">
                                 <div className="flex flex-row gap-4">
                                     <div className="flex rounded-xl bg-white p-2">
@@ -142,7 +142,7 @@ function PortfolioAndSkill() {
 
                     <div className="grid grid-cols-1 gap-4 mb-6 lg:grid-cols-2 lg:gap-8">
                         <div className="h-auto rounded-xl bg-yellow-100 border-2 border-black">
-                            <h1 className="p-4 text-2xl font-bold text-gray-700">Backend</h1>
+                            <h1 className="p-4 text-2xl font-bold text-gray-700">Back-End</h1>
 
                             <div className="flex flex-col gap-4 pl-4 pr-4 pb-4">
                                 <div className="flex flex-row gap-4 ">

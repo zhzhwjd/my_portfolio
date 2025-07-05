@@ -35,7 +35,7 @@ function MyInfo() {
                             <TypeAnimation
                                 sequence={[
                                     1000,
-                                    '성장 가능성이 있는',
+                                    '꾸준히 성장하는',
                                     1000,
                                 ]}
                                 speed={50}

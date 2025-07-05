@@ -9,7 +9,7 @@ function Footer() {
 
                     {/* 왼쪽 - 이름 + 설명 */}
                     <div className="text-center px-12 lg:text-left">
-                        <h2 className="text-6xl text-black font-semibold">JeongHyeon Song</h2>
+                        <h2 className="text-6xl text-black font-semibold">Jeonghyeon Song</h2>
                         <p className="text-2xl text-gray-600 mt-3">Full-Stack Developer Portfolio</p>
                     </div>
 
@@ -22,7 +22,7 @@ function Footer() {
 
                     {/* 오른쪽 - 저작권 표기 */}
                     <div className="self-end text-sm text-gray-500 text-center lg:text-right">
-                        ⓒ 2025 JeongHyeon Song. All rights reserved.
+                        ⓒ 2025 Jeonghyeon Song. All rights reserved.
                     </div>
 
                 </div>
